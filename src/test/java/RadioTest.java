@@ -149,5 +149,4 @@ public class RadioTest {
         int actual = service.getCurrentVolume();
         Assertions.assertEquals(expected, actual);
     }
-    
 }
